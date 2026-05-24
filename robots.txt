@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://paulinaai.github.io//sitemap.xml
+Sitemap: https://paulinaai.github.io/sitemap.xml
