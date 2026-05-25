@@ -25,6 +25,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am an undergrad at UC Berkeley studying [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/). Currently I am exploring machine learning and machine learning research.  
+Hello! I am an undergrad at UC Berkeley studying [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/). Currently I am exploring my interest in math and machine learning via research and coursework.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Previously**: I interned at [LBNL](https://www.lbl.gov/) working on applications for neuromorphic machine learning models. 
+
+**Personally**: I love exploring new kinds of music and receiving reccomendations. I have a tier list of my favorite cafes where I enjoy being productive.    
+
