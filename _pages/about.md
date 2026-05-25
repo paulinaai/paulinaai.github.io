@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate @ UC Berkeley, Student Research Assistant @ LBNL, Student Research Assistant @ C.H.E.N Lab.
+subtitle: Undergraduate @ UC Berkeley, 
+  Student Research Assistant @ LBNL, 
+  Student Research Assistant @ C.H.E.N Lab
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Berkeley, CA 94720</p>
+    <p>Reach me: pai [at] berkeley [dot] edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
