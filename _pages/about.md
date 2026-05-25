@@ -10,8 +10,8 @@ profile:
   align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Reach me: pai [at] berkeley [dot] edu</p>
+  #more_info: >
+    #<p>Reach me: pai [at] berkeley [dot] edu</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,6 +26,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Reach me at: pai [at] berkeley [dot] edu
 
 Hello! I am an undergrad at UC Berkeley studying [Electrical Engineering & Computer Science](https://eecs.berkeley.edu/). Currently I am exploring my interest in math and machine learning via research and coursework.  
 
